@@ -45,4 +45,4 @@ Redesigned the iOS mail application based on user-reported issues to improve usa
 
 ## UI/UX Design
 The application's UI/UX design ensures a smooth user experience. View the design prototype on Figma:  
-[Event Registration Application Prototype]((https://www.figma.com/design/67WR4eOqYr2cyODFAkWflE/re-design-mail?node-id=0-1&p=f&t=gl5LeHBySsixJ7Zj-0))
+[Re-design iOS Mail Application Prototype](https://www.figma.com/design/67WR4eOqYr2cyODFAkWflE/re-design-mail?node-id=0-1&p=f&t=gl5LeHBySsixJ7Zj-0)
