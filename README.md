@@ -34,3 +34,15 @@ The **Event Registration Application** simplifies the process of registering for
 ## UI/UX Design
 The application's UI/UX design ensures a smooth user experience. View the design prototype on Figma:  
 [Event Registration Application Prototype](https://www.figma.com/design/B8oaNbsyLjqUf3xiOfvShR/Event-Registration-Application?node-id=1-2&t=NOUf1Vxh4BYDo9S9-1)
+
+---
+
+
+# Re-design iOS Mail Application
+
+## Overview
+Redesigned the iOS mail application based on user-reported issues to improve usability and enhance the overall user experience.
+
+## UI/UX Design
+The application's UI/UX design ensures a smooth user experience. View the design prototype on Figma:  
+[Event Registration Application Prototype]((https://www.figma.com/design/67WR4eOqYr2cyODFAkWflE/re-design-mail?node-id=0-1&p=f&t=gl5LeHBySsixJ7Zj-0))
