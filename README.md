@@ -12,6 +12,7 @@ The **Carbon Footprint Calculation Application** is designed to help users estim
 - Personalized recommendations to lower emissions
 - Interactive charts and reports
 - Secure user authentication
+- Game 
 
 ## UI/UX Design
 The application interface is designed with usability in mind. You can view the prototype on Figma:  
