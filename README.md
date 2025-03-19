@@ -21,6 +21,7 @@ The application interface is designed with usability in mind. You can view the p
 ---
 
 
+
 # Event Registration Application
 
 ## Overview
@@ -37,6 +38,7 @@ The application's UI/UX design ensures a smooth user experience. View the design
 [Event Registration Application Prototype](https://www.figma.com/design/B8oaNbsyLjqUf3xiOfvShR/Event-Registration-Application?node-id=1-2&t=NOUf1Vxh4BYDo9S9-1)
 
 ---
+
 
 
 # Re-design iOS Mail Application
